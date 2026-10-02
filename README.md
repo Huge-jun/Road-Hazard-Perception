@@ -1,1 +1,2 @@
-# Road-Hazard-Perception
+# deeplearning-repo-2
+딥러닝 프로젝트 2조 저장소. 딥러닝 기반 도로위험요소 감지 및 회피 주행 제어 시스템
